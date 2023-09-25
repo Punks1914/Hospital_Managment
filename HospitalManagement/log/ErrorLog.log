@@ -1,0 +1,23 @@
+09-Jan-2023 12:24:46 INFO - HV000001: Hibernate Validator 6.2.0.Final
+09-Jan-2023 12:24:46 INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+09-Jan-2023 12:24:46 INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+09-Jan-2023 12:24:47 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+09-Jan-2023 12:24:47 INFO - Finished Spring Data repository scanning in 9 ms. Found 0 JPA repository interfaces.
+09-Jan-2023 12:24:48 INFO - Tomcat initialized with port(s): 1111 (http)
+09-Jan-2023 12:24:48 INFO - Initializing ProtocolHandler ["http-nio-1111"]
+09-Jan-2023 12:24:48 INFO - Starting service [Tomcat]
+09-Jan-2023 12:24:48 INFO - Starting Servlet engine: [Apache Tomcat/9.0.56]
+09-Jan-2023 12:24:48 INFO - Initializing Spring embedded WebApplicationContext
+09-Jan-2023 12:24:48 INFO - Root WebApplicationContext: initialization completed in 2168 ms
+09-Jan-2023 12:24:49 INFO - HikariPool-1 - Starting...
+09-Jan-2023 12:24:49 INFO - HikariPool-1 - Start completed.
+09-Jan-2023 12:24:49 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+09-Jan-2023 12:24:49 INFO - HHH000412: Hibernate ORM core version 5.6.3.Final
+09-Jan-2023 12:24:50 INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+09-Jan-2023 12:24:50 INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+09-Jan-2023 12:24:50 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+09-Jan-2023 12:24:50 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+09-Jan-2023 12:24:50 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+09-Jan-2023 12:24:51 INFO - LiveReload server is running on port 35729
+09-Jan-2023 12:24:51 INFO - Starting ProtocolHandler ["http-nio-1111"]
+09-Jan-2023 12:24:51 INFO - Tomcat started on port(s): 1111 (http) with context path ''
